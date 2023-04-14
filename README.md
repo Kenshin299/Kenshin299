@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kemyl Fernandez Bonifacio
 - 👀 I’m interested in learning about programming
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning React with Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kemylfernandez299@gmail.com
 
