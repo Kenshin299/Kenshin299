@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kemyl Fernandez Bonifacio
+- 👋 Hi, I’m Kemyl Fernandez
 - 👀 I’m interested in learning about programming
 - 🌱 I’m currently learning React with Firebase
 - 💞️ I’m looking to collaborate on ...
